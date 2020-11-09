@@ -3,17 +3,17 @@
 <i><p align="center">Projeto web/mobile desenvolvido durante a semana Next Level Week #3  da Rocketseat.</i></p>
 
 <p align="center">
-<a href="https://github.com/jessiarrais/Happy-NWL/new/master?readme=1#rocketsobre-o-projeto">Sobre</a> •
-<a href="https://github.com/jessiarrais/Happy-NWL/new/master?readme=1#rocket-layoutt">Layout</a> •
-<a href="https://github.com/jessiarrais/Happy-NWL/new/master?readme=1#rocket-tecnologias">Tecnologias</a> •
-<a href="https://github.com/jessiarrais/Happy-NWL/new/master?readme=1#rocketlicen%C3%A7a">Licença</a> •
+<a href="https://github.com/jessiarrais/Happy-NWL#rocket-sobre-o-projeto">Sobre</a> •
+<a href="https://github.com/jessiarrais/Happy-NWL#rocket-layout">Layout</a> •
+<a href="https://github.com/jessiarrais/Happy-NWL#rocket-tecnologias">Tecnologias</a> •
+<a href="https://github.com/jessiarrais/Happy-NWL#rocket-licenca">Licença</a> •
 
 </p>
 
 <h4 align="center"> Projeto concluído! :rocket: </h4>
 
 
-<h3>:rocket:#Sobre o projeto:</h3>
+<h3>:rocket: #Sobre o projeto:</h3>
 Projeto desenvolvido durante a semana <strong>Next Level Week</strong>, da <strong><a href="https://rocketseat.com.br/">Rocketseat</a></strong>, do dia 12 a 18 de Outubro de 2020.
 <p>Tem como objetivo levar as pessoas a encontrar e visitar um orfanato da cidade, podendo também cadastrar um orfanato no mapa, com as informações necessárias.
 
