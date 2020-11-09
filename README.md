@@ -6,7 +6,7 @@
 <a href="https://github.com/jessiarrais/Happy-NWL#rocket-sobre-o-projeto">Sobre</a> •
 <a href="https://github.com/jessiarrais/Happy-NWL#rocket-layout">Layout</a> •
 <a href="https://github.com/jessiarrais/Happy-NWL#rocket-tecnologias">Tecnologias</a> •
-<a href="https://github.com/jessiarrais/Happy-NWL#rocket-licenca">Licença</a> •
+<a href="https://github.com/jessiarrais/Happy-NWL#rocket-licença">Licença</a> •
 
 </p>
 
