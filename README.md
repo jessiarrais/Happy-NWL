@@ -6,7 +6,7 @@
 <a href="https://github.com/jessiarrais/Happy-NWL#rocket-sobre-o-projeto">Sobre</a> •
 <a href="https://github.com/jessiarrais/Happy-NWL#rocket-layout">Layout</a> •
 <a href="https://github.com/jessiarrais/Happy-NWL#rocket-tecnologias">Tecnologias</a> •
-<a href="https://github.com/jessiarrais/Happy-NWL#rocket-licença">Licença</a> •
+<a href="https://github.com/jessiarrais/Happy-NWL#rocket-license">License</a> •
 
 </p>
 
@@ -39,7 +39,7 @@ Para isso você precisa ter uma conta para acessá-lo.
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-<h3>:rocket:#Licença</h3>
+<h3>:rocket:#License</h3>
 <p>Este projeto está sob a licença <a href="https://github.com/jessiarrais/Happy-NWL/blob/add-license-1/LICENSE"</a>MIT.</p>
 
 
